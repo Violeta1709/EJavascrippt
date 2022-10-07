@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    color: #fff;
+}
+
+span{
+    font-size: 5em;
+}
+
+button{
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #6ecff6;
+    text-transform: uppercase;
+}
+
